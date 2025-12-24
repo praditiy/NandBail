@@ -1,6 +1,6 @@
 ## Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/rotxy8.jpg" width="172">
+  <img src="https://img1.pixhost.to/images/11118/673850073_nulxzmd.jpg" width="172">
 </p>
 
 --- 
@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:GupongXyz/PongBail"
+  "@whiskeysockets/baileys": "github:praditiy/NandBail"
 }
 ```
 ## Import
@@ -99,7 +99,7 @@ await client.relayMessage(m.chat, {
     thumbnail: { url: "./ZeppImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/GupongShop",
+    url: "https://t.me/NandOffc1",
     body: "Nak Tido",
     footer: "Footer",
     buttons: [
@@ -113,4 +113,4 @@ await client.relayMessage(m.chat, {
   }
 })
 ```
-Makasi Dhh Pake Ni Bail By GupongShop :>
+Makasi Dhh Pake Ni Bail By NandOffc :>

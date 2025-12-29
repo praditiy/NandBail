@@ -63,7 +63,7 @@ const ZeppImg = fs.readFileSync('./ZeppImage');
 await client.sendMessage(m.chat, {
   thumbnail: ZeppImg,
   message: "Gotta get a grip",
-  orderTitle: "PongKangColi",
+  orderTitle: "NandOffc",
   totalAmount1000: 72502,
   totalCurrencyCode: "IDR"
 }, { quoted:m })
@@ -83,7 +83,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Gupong",
+      newsletterName: "NandOffc",
       newsletterJid: "1@newsletter"
     }
   }
@@ -94,7 +94,7 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.relayMessage(m.chat, {
   productMessage {
-    title: "DewaBail",
+    title: "NandOffc",
     description: "zZZ...",
     thumbnail: { url: "./ZeppImage" },
     productId: "EXAMPLE_TOKEN",
@@ -105,7 +105,7 @@ await client.relayMessage(m.chat, {
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"7eppeli-Pdf\",\"url\":\"https://t.me/GupongShop\"}"
+        buttonParamsJson: "{\"display_text\":\"7eppeli-Pdf\",\"url\":\"https://t.me/Nandoffc1\"}"
       }
     ],
     priceAmount1000: 72502,

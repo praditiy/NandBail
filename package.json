@@ -1,16 +1,16 @@
 {
-    "name": "GupongXyz/PongBail",
+    "name": "NandBail",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By GupongShop",
+    "description": "WhatsApp Modified By NandOffc",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/GupongXyz/PongBail",
+    "homepage": "https://github.com/praditiy/NandBail",
     "repository": {
-        "url": "https://github.com/GupongXyz/PongBail"
+        "url": "https://github.com/praditiy/NandBail"
     },
     "license": "MIT",
-    "author": "Gupong - Shop",
+    "author": "Nand - Shop",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://GupongXyz/PongBail/issues"
+      "url": "https:/praditiy/NandBail/issues"
     }
 }
